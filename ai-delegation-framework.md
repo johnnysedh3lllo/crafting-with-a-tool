@@ -7,6 +7,18 @@
 
 ---
 
+## What Is the Goal?
+
+Before anything else:
+
+- Why am I doing this?
+- Why should it be by hand?
+- Why is it necessary that I delegate?
+
+The goal comes first. It decides how I read everything below.
+
+---
+
 ## Tier 1
 
 Product decisions and architectural decisions.
@@ -38,17 +50,11 @@ If so, consider delegation.
 
 ---
 
-## Skill Formation
+## Reading the Tier Through the Goal
 
-To decide what should be a priority for skill formation, it is important to ask what the goal is:
+A tier gives a default answer. The goal decides whether that default still holds.
 
-- Why am I doing this?
-- Why should it be by hand?
-- Why is it necessary that I delegate?
-
-The goal defines the mode of approach.
-
-**If the goal is learning or practice** — implementing by hand is the point. A router built from scratch to understand routers needs to be built by hand.
+**If the goal is learning or practice** — implementing by hand is the point, even where a tier would normally say delegate. A router built from scratch to understand routers needs to be built by hand.
 
 **If the goal is immediate delivery** — delegation might be a better option, given that the environment may be against the sought learning. A migration script in production, in service of a deadline, is one example.
 
