@@ -1,12 +1,5 @@
 # AI Delegation Framework
 
-## My Values
-
-- Quality over quantity.
-- Simplicity over complexity — only reach for a complex solution when a simple one genuinely isn't possible.
-
----
-
 ## The Core Principle
 
 Understand anything proportional to how much it affects the system's behavior.
