@@ -166,6 +166,12 @@ The question the study ultimately poses is not whether to use AI. It is whether 
 
 ---
 
+## Limitations
+
+The study measures conceptual understanding, code reading, and debugging ability shortly after learning. It does not directly measure long-term procedural skill or the effects of repeated implementation over months or years. Understanding and competence are related but distinct — the practices in this document preserve understanding. Whether a given task should be implemented personally for the sake of skill formation, rather than reviewed and understood, depends on goals beyond the scope of this study. See the companion [AI Delegation Framework](https://github.com/johnnysedh3lllo/crafting-with-a-tool/blob/main/ai-delegation-framework.md) for how that distinction plays out day to day. The two documents aren't in tension: this one describes a deliberately maximal mode for actively building a skill from zero; the framework describes proportional, everyday operating policy once most of a system is no longer unfamiliar.
+
+---
+
 ## Source
 
 This document is based on research conducted by Anthropic, published January 29, 2026.
